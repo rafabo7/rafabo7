@@ -8,7 +8,7 @@ I'm Rafael Botella Sánchez, from Alicante, Spain. I'm a tech-enthusiast, self-t
 - ⚡ Fun fact: I love the mountains ⛰️ and videogames 🎮.
 - 📫 How to reach me: rfbt97@gmail.com
 
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafabo7&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafabo7&layout=compact&hide=TSQL&theme=highcontrast"></p>
 
 ##
 
