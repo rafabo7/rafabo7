@@ -31,7 +31,7 @@ In addition to my technical skills, my background as a front office worker and l
 
 <details>
  <summary><h3>👨‍💻 Rafael's Coding Journey</h3></summary>
- I started my coding journey as an archaeologist, dissatisfied with the repetitive tasks and lack of efficiency in the way we (the archaeologists) manage our data. During my studies I became curious about computer science and its applications in 'non-computer based' fields like mine and other 'human sciences', as we call them in Spain. One day I took the step of finally deciding to learn how to code in order to create tools for myself and my colleagues, and I went down the deepest rabbit hole I could ever imagine.
+ I started my coding journey as an archaeologist, dissatisfied with the repetitive tasks and lack of efficiency in the way we (the archaeologists) manage our data. During my studies I became curious about computer science and its applications in 'non-computer based' fields like mine and other 'human sciences', as we call them in Spain. One day I finally took the step and started learning to code in order to create tools that I and my colleagues seemed to need, and I went down the deepest rabbit hole I could ever imagine.
  Long story short, I didn't create the tool I was looking for, but I did learn something that I eventually came to love as much as my other hobbies.
   
 <!--
