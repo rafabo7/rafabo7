@@ -11,6 +11,7 @@ I'm Rafael Botella Sánchez, from Alicante, Spain. I'm a tech-enthusiast, passio
 - ⚡ Fun fact: I love the mountains ⛰️ and videogames 🎮.
 - 📫 How to reach me: rfbt97@gmail.com
 
+  
 
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafabo7&layout=compact&hide=TSQL&theme=highcontrast"></p>
 
@@ -29,8 +30,25 @@ In addition to my technical skills, my background as a front office worker and l
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+
+## Courses
+
+
+#### I'm currently taking several free courses:
+
+- The Odin Project
+- freeCodeCamp
+- CS50's Introduction to programming with Python.
+  
+#### Stuff I'm reading:
+  
+- How to design programs
+- Clean Code
+- Robinson Crusoe
+
+  
 <details>
- <summary><h3>👨‍💻 Rafael's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Rafael's Coding Journey🤠</h3></summary>
  I started my coding journey as an archaeologist, dissatisfied with the repetitive tasks and lack of efficiency in the way we (the archaeologists) manage our data. During my studies I became curious about computer science and its applications in 'non-computer based' fields like mine and other 'human sciences', as we call them in Spain. One day I finally took the step and started learning to code in order to create tools that I and my colleagues seemed to need, and I went down the deepest rabbit hole I could ever imagine.
  Long story short, I didn't create the tool I was looking for, but I did learn something that I eventually came to love as much as my other hobbies.
   
