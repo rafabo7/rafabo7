@@ -38,7 +38,7 @@ In addition to my technical skills, my background as a front office worker and l
 
 - The Odin Project
 - freeCodeCamp
-- CS50's Introduction to programming with Python.
+- ~~CS50's Introduction to programming with Python.~~ (Done)
   
 #### Stuff I'm reading:
   
