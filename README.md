@@ -31,7 +31,7 @@ In addition to my technical skills, my background as a front office worker and l
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-## Courses
+## Courses an Learning Area
 
 
 #### I'm currently taking several free courses:
@@ -45,6 +45,10 @@ In addition to my technical skills, my background as a front office worker and l
 - How to design programs
 - Clean Code
 - Robinson Crusoe
+
+### Some learning stage projects (newer to older):
+- Sign up Form - The Odin Project [ [Live](https://rafabo7.github.io/top-form/) / [Code](https://github.com/rafabo7/top-form) ]
+- CASIO-like calculator - The Odin Project [ [Live](https://rafabo7.github.io/top-calculator/) / [Code](https://github.com/rafabo7/top-calculator) ]
 
   
 <details>
