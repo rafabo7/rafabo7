@@ -47,6 +47,8 @@ In addition to my technical skills, my background as a front office worker and l
 - Robinson Crusoe
 
 ### Some learning stage projects (newer to older):
+- React Film Finder App [ Live / [Code](https://github.com/rafabo7/aprendiendo-react/tree/main/midudev-react/projects/05-react-movie-film-search) ]
+- React Cv maker [ [Live](https://ese-rafa-cv-maker.netlify.app/) / [Code](https://github.com/rafabo7/top-cv-application) ]
 - Library - The Odin Project [ [Live](https://rafabo7.github.io/top-library/) / [Code](https://github.com/rafabo7/top-library) ]
 - Sign up Form - The Odin Project [ [Live](https://rafabo7.github.io/top-form/) / [Code](https://github.com/rafabo7/top-form) ]
 - CASIO-like calculator - The Odin Project [ [Live](https://rafabo7.github.io/top-calculator/) / [Code](https://github.com/rafabo7/top-calculator) ]
