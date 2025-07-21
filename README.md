@@ -7,9 +7,8 @@ I'm Rafael Botella Sánchez, from Alicante, Spain. I'm a tech-enthusiast, passio
   
 - 🤔 I'm currently learning Frontend Developement with Angular and Typescript... although I also enjoy myself sometimes with python.
 - 👯 I’m looking to collaborate on, well... web developement and python projects.
-- ⚽ Goals for 2024: land a job (or at least publish a few webs)
+- ⚽ Goals for 2025: land a job (or at least publish a few webs)
 - ⚡ Fun fact: I love the mountains ⛰️ and videogames 🎮.
-- 📫 How to reach me: rfbt97@gmail.com
 
   
 
