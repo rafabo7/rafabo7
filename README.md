@@ -2,12 +2,12 @@
 
 I'm Rafael Botella Sánchez, from Alicante, Spain. I'm a tech-enthusiast, passionate learner, self-taught developer in the process of discovering new passions.
 
-- 🏆 Founder and content creator of [Excapic](https://excapic.es/)
+- 🏆 Founder and content creator of [Excapic](https://excapic.es/) (B.D.E.)
 
   
-- 🤔 I'm currently learning Frontend Developement with Angular and Typescript... although I also enjoy myself sometimes with python.
-- 👯 I’m looking to collaborate on, well... web developement and python projects.
-- ⚽ Goals for 2025: land a job (or at least publish a few webs)
+- 🤔 I'm currently learning at Centre Especific d'Educació a Distància de la Comunitat Valenciana, where we use Angular with Typescript, Java, PHP+Laravel, MySQL, MongoDB, Networks and a little bit of AWS for deployment... although I also enjoy myself sometimes with Python.
+- 👯 I’m looking to collaborate on, well... web developement projects.
+- ⚽ Goals for 2026: land a job (or at least publish a few webs)
 - ⚡ Fun fact: I love the mountains ⛰️ and videogames 🎮.
 
   
